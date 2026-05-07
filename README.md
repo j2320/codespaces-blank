@@ -1,3 +1,1 @@
-#松江高専Webシステム
-
-javascript
+#松江高専WEBシステム
