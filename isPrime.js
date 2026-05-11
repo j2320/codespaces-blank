@@ -17,5 +17,5 @@ function isPrime (n) {
      return true;
 }
 
-let result=isPrime(20);
+let result=isPrime(13);
 console.log(result);
